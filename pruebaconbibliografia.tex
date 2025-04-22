@@ -1,0 +1,35 @@
+\documentclass{article}
+\usepackage[spanish]{babel}
+\usepackage[style=verbose-ibid, backend=biber]{biblatex}
+
+% Personalización para español
+\DefineBibliographyStrings{spanish}{
+	idem = {Ídem},
+	ibidem = {Ibíd.},
+}
+
+% Formato de citas en notas al pie
+\DeclareFieldFormat{postnote}{#1} % Evita "p." antes del número de página
+\renewcommand*{\ibidem}{\autocap{i}bíd\nopunct} % Sin punto después
+\renewcommand*{\idememph}{\emph{Ídem}} % Ídem en cursiva
+
+\addbibresource{bibliografia.bib} % Tu archivo .bib
+
+
+\begin{document}
+	Las ontologías diferenciales han sido exploradas por varios autores\footcite[15]{deleuze2002}.
+	Más adelante, el mismo autor profundiza en la noción de repetición\footcite[Véase especialmente el capítulo 2][]{deleuze2002}.
+
+	Cuando se cita exactamente la misma obra consecutivamente:
+	\footcite[18]{deleuze2002}.
+	\footcite[22]{deleuze2002}. % Se convertirá automáticamente en "Ídem, p. 22"
+
+	Al citar otra obra del mismo autor:
+	\footcite[45]{deleuze1996}.
+	\footcite[30]{deleuze2002}. % Mostrará el título abreviado
+
+	Cuando se repite la cita inmediatamente después:
+	\footcite[101]{heidegger1988}.
+	\footcite[103]{heidegger1988}. % Se convertirá en "Ibíd., p. 103"
+\end{document}
+

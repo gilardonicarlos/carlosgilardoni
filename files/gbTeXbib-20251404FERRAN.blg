@@ -1,0 +1,5 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is 'gbTeXbib-20251404FERRAN.blg'
+[98] biber:340> INFO - === lun abr 21, 2025, 20:47:57
+[253] Utils.pm:399> ERROR - Cannot find 'gbTeXbib-20251404FERRAN.bcf'!
+[253] Biber.pm:136> INFO - ERRORS: 1
