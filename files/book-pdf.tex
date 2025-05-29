@@ -26,7 +26,9 @@ footnotesep=14pt plus 0.1pt minus 0.1pt]{geometry}
 
 
 
-\usepackage[autostyle=true]{csquotes}
+\usepackage{csquotes}
+% Definir función para un tercer nivel de coma
+\newcommand{\thirdquote}[1]{`#1'}
 \frenchspacing% Espaciado uniforme después de puntos
 % Personalización del nombre del índice
 \renewcommand{\spanishcontentsname}{Sumario}
@@ -357,6 +359,7 @@ placement=ht,
 %\def\estandar{numeric}
 %\def\estandar{custom}
 \input{./files/biblatex-\estandar-config.tex}
+
 
 % generamos los índices
 \usepackage[xindy]{imakeidx}
