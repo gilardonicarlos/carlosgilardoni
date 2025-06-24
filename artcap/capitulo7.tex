@@ -3,16 +3,26 @@
 \chaptermark{Ontología del sujeto}
 \Author{Daniel Groisman}
 \setcounter{PrimPag}{\theCurrentPage}
-
 % encabezado para autor
 \begin{center}
 	\nombreautor{Daniel Groisman}\\
-	\vspace{20mm}
+	\vspace{15mm}
 \end{center}
-\else
+\fi
+
+\ifBNPDF
+\chapter[\hspace{1.5pc}Ontología del sujeto]{Ontología del sujeto}
+\chaptermark{Ontología del sujeto}
+\Author{Daniel Groisman}
+% encabezado para autor
+\begin{center}
+	\nombreautor{Daniel Groisman}\\
+	\vspace{15mm}
+\end{center}
+\fi
+
 \ifHTMLEPUB
 \chapter{Ontología del sujeto}
-\fi
 \fi
 
 \section{Introducción}

@@ -3,16 +3,26 @@
 \chaptermark{Ontología genealógica}
 \Author{María Aurora Romero}
 \setcounter{PrimPag}{\theCurrentPage}
-
 % encabezado para autor
 \begin{center}
-	\nombreautor{María Aurora Romero}\label{cap:ontologia}\\
-	\vspace{20mm}
+	\nombreautor{María Aurora Romero}\\
+	\vspace{15mm}
 \end{center}
-\else
+\fi
+
+\ifBNPDF
+\chapter[\hspace{1.5pc}Ontología genealógica]{Ontología genealógica}
+\chaptermark{Ontología genealógica}
+\Author{María Aurora Romero}
+% encabezado para autor
+\begin{center}
+	\nombreautor{María Aurora Romero}\\
+	\vspace{15mm}
+\end{center}
+\fi
+
 \ifHTMLEPUB
 \chapter{Ontología genealógica}
-\fi
 \fi
 
 
