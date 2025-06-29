@@ -1,0 +1,617 @@
+<?xml version='1.0' encoding='utf-8' ?> 
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"> 
+<ncx version='2005-1' xmlns='http://www.daisy.org/z3986/2005/ncx/'><head> 
+<meta content='http://example.com/epub2-20251404FERRAN' name='dtb:uid' /> 
+<meta content='3' name='dtb:depth' /> 
+<meta content='0' name='dtb:totalPageCount' /> 
+<meta content='0' name='dtb:maxPageNumber' /> 
+</head> 
+<docTitle> 
+<text>as: as</text> 
+</docTitle> 
+<navMap> 
+<navPoint id='navPoint-1' playOrder='1'> 
+<navLabel> 
+<text>  Presentación</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANch1.html#x2-1000'></content></navPoint> 
+ 
+<navPoint id='navPoint-2' playOrder='2'> 
+<navLabel> 
+<text>  ¿Por qué ontologías políticas?</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANch2.html#x3-2000'></content> 
+<navPoint id='navPoint-3' playOrder='3'> 
+<navLabel> 
+<text> 1.</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANch2.html#x3-3000'></content></navPoint> 
+ 
+<navPoint id='navPoint-4' playOrder='4'> 
+<navLabel> 
+<text>
+2.</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANch2.html#x3-4000'></content></navPoint> 
+ 
+<navPoint id='navPoint-5' playOrder='5'> 
+<navLabel> 
+<text> 3.</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANch2.html#x3-5000'></content></navPoint> 
+ 
+<navPoint id='navPoint-6' playOrder='6'> 
+<navLabel> 
+<text> 4.</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANch2.html#x3-6000'></content></navPoint> 
+ 
+<navPoint id='navPoint-7' playOrder='7'> 
+<navLabel> 
+<text> 5.</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANch2.html#x3-7000'></content></navPoint> 
+</navPoint> 
+ 
+<navPoint id='navPoint-8' playOrder='8'> 
+<navLabel> 
+<text>1  Ontología de la diferencia</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANch3.html#x4-80001'></content> 
+<navPoint id='navPoint-9' playOrder='9'> 
+<navLabel> 
+<text>1.1 Introducción</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANch3.html#x4-90001.1'></content></navPoint> 
+ 
+<navPoint id='navPoint-10' playOrder='10'> 
+<navLabel> 
+<text>1.2 Dialéctica y
+diferencia</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANch3.html#x4-100001.2'></content></navPoint> 
+ 
+<navPoint id='navPoint-11' playOrder='11'> 
+<navLabel> 
+<text>1.3 La diferencia afirmativa: Gilles Deleuze</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANch3.html#x4-110001.3'></content></navPoint> 
+ 
+<navPoint id='navPoint-12' playOrder='12'> 
+<navLabel> 
+<text>1.4 La diferencia negativa:
+Jacques Derrida</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANch3.html#x4-120001.4'></content></navPoint> 
+ 
+<navPoint id='navPoint-13' playOrder='13'> 
+<navLabel> 
+<text>1.5 Ontologías políticas de la diferencia</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANch3.html#x4-130001.5'></content></navPoint> 
+ 
+<navPoint id='navPoint-14' playOrder='14'> 
+<navLabel> 
+<text>1.6 Aperturas</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANch3.html#x4-140001.6'></content></navPoint> 
+ 
+<navPoint id='navPoint-15' playOrder='15'> 
+<navLabel> 
+<text>
+Referencias</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANch3.html#x4-15000'></content></navPoint> 
+</navPoint> 
+ 
+<navPoint id='navPoint-16' playOrder='16'> 
+<navLabel> 
+<text>2  Ontología de la sobredeterminación</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANch4.html#x5-160002'></content> 
+<navPoint id='navPoint-17' playOrder='17'> 
+<navLabel> 
+<text>2.1 Introducción</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANch4.html#x5-170002.1'></content></navPoint> 
+ 
+<navPoint id='navPoint-18' playOrder='18'> 
+<navLabel> 
+<text>2.2 La
+irrupción del lenguaje en las ciencias sociales</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANch4.html#x5-180002.2'></content></navPoint> 
+ 
+<navPoint id='navPoint-19' playOrder='19'> 
+<navLabel> 
+<text>2.3 El retiro del fundamento</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANch4.html#x5-190002.3'></content></navPoint> 
+ 
+<navPoint id='navPoint-20' playOrder='20'> 
+<navLabel> 
+<text>2.4
+Discurso, hegemonía y el retorno de lo político</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANch4.html#x5-200002.4'></content></navPoint> 
+ 
+<navPoint id='navPoint-21' playOrder='21'> 
+<navLabel> 
+<text>2.5 Significación y hegemonía</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANch4.html#x5-210002.5'></content></navPoint> 
+ 
+<navPoint id='navPoint-22' playOrder='22'> 
+<navLabel> 
+<text>2.6
+Sobredeterminación</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANch4.html#x5-220002.6'></content></navPoint> 
+ 
+<navPoint id='navPoint-23' playOrder='23'> 
+<navLabel> 
+<text>2.7 Emergencia: Sigmund Freud</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANch4.html#x5-230002.7'></content></navPoint> 
+ 
+<navPoint id='navPoint-24' playOrder='24'> 
+<navLabel> 
+<text>2.8 Protagonismo: Louis
+Althusser</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANch4.html#x5-240002.8'></content></navPoint> 
+ 
+<navPoint id='navPoint-25' playOrder='25'> 
+<navLabel> 
+<text>2.9 Hacia una Ontología de la Sobredeterminación</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANch4.html#x5-250002.9'></content></navPoint> 
+ 
+<navPoint id='navPoint-26' playOrder='26'> 
+<navLabel> 
+<text> Referencias</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANch4.html#x5-26000'></content></navPoint> 
+</navPoint> 
+ 
+<navPoint id='navPoint-27' playOrder='27'> 
+<navLabel> 
+<text>3
+Ontología genealógica</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANch5.html#x6-270003'></content> 
+<navPoint id='navPoint-28' playOrder='28'> 
+<navLabel> 
+<text>3.1 Introducción</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANch5.html#x6-280003.1'></content></navPoint> 
+ 
+<navPoint id='navPoint-29' playOrder='29'> 
+<navLabel> 
+<text>3.2 Aufklärung: una ontología crítica
+del presente</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANch5.html#x6-290003.2'></content></navPoint> 
+ 
+<navPoint id='navPoint-30' playOrder='30'> 
+<navLabel> 
+<text>3.3 Sentido histórico y genealogía: Herkunft y Entstehung</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANch5.html#x6-300003.3'></content></navPoint> 
+ 
+<navPoint id='navPoint-31' playOrder='31'> 
+<navLabel> 
+<text>3.4
+Poder y libertad: formas de gobierno y modalidades de existencia</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANch5.html#x6-310003.4'></content></navPoint> 
+ 
+<navPoint id='navPoint-32' playOrder='32'> 
+<navLabel> 
+<text>3.5 Pensamiento
+e historia: hacia una ontología genealógica</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANch5.html#x6-320003.5'></content></navPoint> 
+ 
+<navPoint id='navPoint-33' playOrder='33'> 
+<navLabel> 
+<text> Referencias</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANch5.html#x6-33000'></content></navPoint> 
+</navPoint> 
+ 
+<navPoint id='navPoint-34' playOrder='34'> 
+<navLabel> 
+<text>4   Ontología de la
+distorsión. Algunas notas sobre la política en la obra de Jacques Rancière</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANch6.html#x7-340004'></content> 
+<navPoint id='navPoint-35' playOrder='35'> 
+<navLabel> 
+<text>4.1
+Introducción</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANch6.html#x7-350004.1'></content></navPoint> 
+ 
+<navPoint id='navPoint-36' playOrder='36'> 
+<navLabel> 
+<text>4.2 Igualdad y distorsión</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANch6.html#x7-360004.2'></content></navPoint> 
+ 
+<navPoint id='navPoint-37' playOrder='37'> 
+<navLabel> 
+<text>4.3 La co-constitutividad de la policía y la
+política</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANch6.html#x7-370004.3'></content></navPoint> 
+ 
+<navPoint id='navPoint-38' playOrder='38'> 
+<navLabel> 
+<text>4.4 Distorsión y sujeto político: comunidad de litigio</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANch6.html#x7-380004.4'></content></navPoint> 
+ 
+<navPoint id='navPoint-39' playOrder='39'> 
+<navLabel> 
+<text>4.5 La subjetivación,
+entre identificaciones</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANch6.html#x7-390004.5'></content></navPoint> 
+ 
+<navPoint id='navPoint-40' playOrder='40'> 
+<navLabel> 
+<text>4.6 La emancipación y la democracia</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANch6.html#x7-400004.6'></content></navPoint> 
+ 
+<navPoint id='navPoint-41' playOrder='41'> 
+<navLabel> 
+<text>4.7 Algunas notas
+para concluir</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANch6.html#x7-410004.7'></content></navPoint> 
+ 
+<navPoint id='navPoint-42' playOrder='42'> 
+<navLabel> 
+<text> Referencias</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANch6.html#x7-42000'></content></navPoint> 
+</navPoint> 
+ 
+<navPoint id='navPoint-43' playOrder='43'> 
+<navLabel> 
+<text>5   Ontología de la inoperancia. La política en el
+pensamiento de Giorgio Agamben</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANch7.html#x8-430005'></content> 
+<navPoint id='navPoint-44' playOrder='44'> 
+<navLabel> 
+<text>5.1 Introducción</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANch7.html#x8-440005.1'></content></navPoint> 
+ 
+<navPoint id='navPoint-45' playOrder='45'> 
+<navLabel> 
+<text>5.2 El posfundacionalismo
+y la ontología</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANch7.html#x8-450005.2'></content></navPoint> 
+ 
+<navPoint id='navPoint-46' playOrder='46'> 
+<navLabel> 
+<text>5.3 La decisión y la zona de indistinción entre ser-ente</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANch7.html#x8-460005.3'></content></navPoint> 
+ 
+<navPoint id='navPoint-47' playOrder='47'> 
+<navLabel> 
+<text>5.4 La
+aporía soberana: un supuesto paradójico</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANch7.html#x8-470005.4'></content></navPoint> 
+ 
+<navPoint id='navPoint-48' playOrder='48'> 
+<navLabel> 
+<text>5.5 Biopolítica y gloria, nuda vida
+y oikonomía</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANch7.html#x8-480005.5'></content></navPoint> 
+ 
+<navPoint id='navPoint-49' playOrder='49'> 
+<navLabel> 
+<text>5.6 Inoperancia: una ontología política</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANch7.html#x8-490005.6'></content></navPoint> 
+ 
+<navPoint id='navPoint-50' playOrder='50'> 
+<navLabel> 
+<text>5.7 Conclusión</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANch7.html#x8-500005.7'></content></navPoint> 
+ 
+<navPoint id='navPoint-51' playOrder='51'> 
+<navLabel> 
+<text>
+Referencias</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANch7.html#x8-51000'></content></navPoint> 
+</navPoint> 
+ 
+<navPoint id='navPoint-52' playOrder='52'> 
+<navLabel> 
+<text>6  Ontología de la falta</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANch8.html#x9-520006'></content> 
+<navPoint id='navPoint-53' playOrder='53'> 
+<navLabel> 
+<text>6.1 Introducción</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANch8.html#x9-530006.1'></content></navPoint> 
+ 
+<navPoint id='navPoint-54' playOrder='54'> 
+<navLabel> 
+<text>6.2 El sujeto de la
+Falta</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANch8.html#x9-540006.2'></content></navPoint> 
+ 
+<navPoint id='navPoint-55' playOrder='55'> 
+<navLabel> 
+<text>6.3 Una ontología (política) de lo real</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANch8.html#x9-550006.3'></content></navPoint> 
+ 
+<navPoint id='navPoint-56' playOrder='56'> 
+<navLabel> 
+<text>6.4 El fantasma ideológico</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANch8.html#x9-560006.4'></content></navPoint> 
+ 
+<navPoint id='navPoint-57' playOrder='57'> 
+<navLabel> 
+<text>6.5
+Hacia una lectura sintomática de lo político</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANch8.html#x9-570006.5'></content></navPoint> 
+ 
+<navPoint id='navPoint-58' playOrder='58'> 
+<navLabel> 
+<text>6.6 La subjetivación política</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANch8.html#x9-580006.6'></content></navPoint> 
+ 
+<navPoint id='navPoint-59' playOrder='59'> 
+<navLabel> 
+<text>6.7
+                                                                  
+                                                                  
+Una ontología (ética) de la falta</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANch8.html#x9-590006.7'></content></navPoint> 
+ 
+<navPoint id='navPoint-60' playOrder='60'> 
+<navLabel> 
+<text> Referencias</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANch8.html#x9-60000'></content></navPoint> 
+</navPoint> 
+ 
+<navPoint id='navPoint-61' playOrder='61'> 
+<navLabel> 
+<text>7  Ontología del sujeto</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANch9.html#x10-610007'></content> 
+<navPoint id='navPoint-62' playOrder='62'> 
+<navLabel> 
+<text>7.1
+Introducción</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANch9.html#x10-620007.1'></content></navPoint> 
+ 
+<navPoint id='navPoint-63' playOrder='63'> 
+<navLabel> 
+<text>7.2 La versión cartesiana</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANch9.html#x10-630007.2'></content></navPoint> 
+ 
+<navPoint id='navPoint-64' playOrder='64'> 
+<navLabel> 
+<text>7.3 La sub-versión psicoanalítica</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANch9.html#x10-640007.3'></content></navPoint> 
+ 
+<navPoint id='navPoint-65' playOrder='65'> 
+<navLabel> 
+<text>7.4 Y
+Badiou…</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANch9.html#x10-650007.4'></content></navPoint> 
+ 
+<navPoint id='navPoint-66' playOrder='66'> 
+<navLabel> 
+<text> Referencias</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANch9.html#x10-66000'></content></navPoint> 
+</navPoint> 
+ 
+<navPoint id='navPoint-67' playOrder='67'> 
+<navLabel> 
+<text>8  Ontología nodal. Un materialismo del encuentro</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANch10.html#x11-670008'></content> 
+<navPoint id='navPoint-68' playOrder='68'> 
+<navLabel> 
+<text>8.1
+Introducción</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANch10.html#x11-680008.1'></content></navPoint> 
+ 
+<navPoint id='navPoint-69' playOrder='69'> 
+<navLabel> 
+<text>8.2 Paradigma</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANch10.html#x11-690008.2'></content></navPoint> 
+ 
+<navPoint id='navPoint-70' playOrder='70'> 
+<navLabel> 
+<text>8.3 Doble función (sujeto)</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANch10.html#x11-700008.3'></content></navPoint> 
+ 
+<navPoint id='navPoint-71' playOrder='71'> 
+<navLabel> 
+<text>8.4 Lecturas (post)
+althusserianas</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANch10.html#x11-710008.4'></content> 
+<navPoint id='navPoint-72' playOrder='72'> 
+<navLabel> 
+<text>8.4.1 Materialismo dialéctico</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANch10.html#x11-720008.4.1'></content></navPoint> 
+ 
+<navPoint id='navPoint-73' playOrder='73'> 
+<navLabel> 
+<text>8.4.2 Hacia otras lecturas de
+Marx (o la filosofía como práctica teórica)</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANch10.html#x11-730008.4.2'></content></navPoint> 
+ 
+<navPoint id='navPoint-74' playOrder='74'> 
+<navLabel> 
+<text>8.4.3 Materialismo aleatorio</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANch10.html#x11-740008.4.3'></content></navPoint> 
+</navPoint> 
+ 
+<navPoint id='navPoint-75' playOrder='75'> 
+<navLabel> 
+<text>8.5
+Materialismo nodal</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANch10.html#x11-750008.5'></content></navPoint> 
+ 
+<navPoint id='navPoint-76' playOrder='76'> 
+<navLabel> 
+<text> Referencias</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANch10.html#x11-76000'></content></navPoint> 
+</navPoint> 
+ 
+<navPoint id='navPoint-77' playOrder='77'> 
+<navLabel> 
+<text>  Conclusiones</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANch11.html#x12-77000'></content></navPoint> 
+ 
+<navPoint id='navPoint-78' playOrder='78'> 
+<navLabel> 
+<text>  Autores</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANch12.html#x13-78000'></content></navPoint> 
+ 
+<navPoint id='navPoint-79' playOrder='79'> 
+<navLabel> 
+<text>  Notas</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANli1.html#x14-88000'></content> 
+<navPoint id='navPoint-80' playOrder='80'> 
+<navLabel> 
+<text> 1
+Ontología de la diferencia</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANli1.html#x14-89000'></content></navPoint> 
+ 
+<navPoint id='navPoint-81' playOrder='81'> 
+<navLabel> 
+<text> 2 Ontología de la sobredeterminación</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANli1.html#x14-90000'></content></navPoint> 
+ 
+<navPoint id='navPoint-82' playOrder='82'> 
+<navLabel> 
+<text> 3 Ontología
+genealógica</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANli1.html#x14-91000'></content></navPoint> 
+ 
+<navPoint id='navPoint-83' playOrder='83'> 
+<navLabel> 
+<text> 4 Ontología de la distorsión. Algunas notas sobre la política en la obra
+de Jacques Rancière</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANli1.html#x14-92000'></content></navPoint> 
+ 
+<navPoint id='navPoint-84' playOrder='84'> 
+<navLabel> 
+<text> 5 Ontología de la inoperancia. La política en el pensamiento
+de Giorgio Agamben</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANli1.html#x14-93000'></content></navPoint> 
+ 
+<navPoint id='navPoint-85' playOrder='85'> 
+<navLabel> 
+<text> 6 Ontología de la falta</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANli1.html#x14-94000'></content></navPoint> 
+ 
+<navPoint id='navPoint-86' playOrder='86'> 
+<navLabel> 
+<text> 7 Ontología del sujeto</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANli1.html#x14-95000'></content></navPoint> 
+ 
+<navPoint id='navPoint-87' playOrder='87'> 
+<navLabel> 
+<text> 8
+Ontología nodal. Un materialismo del encuentro</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANli1.html#x14-96000'></content></navPoint> 
+ 
+<navPoint id='navPoint-88' playOrder='88'> 
+<navLabel> 
+<text>  Conclusiones</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANli1.html#x14-97000'></content></navPoint> 
+ 
+<navPoint id='navPoint-89' playOrder='89'> 
+<navLabel> 
+<text>  Autores</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANli1.html#x14-98000'></content></navPoint> 
+</navPoint> 
+ 
+<navPoint id='navPoint-90' playOrder='90'> 
+<navLabel> 
+<text>  
+</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANli1.html#Q1-14-100'></content></navPoint> 
+ 
+<navPoint id='navPoint-91' playOrder='91'> 
+<navLabel> 
+<text></text> 
+</navLabel> 
+<content src='epub2-20251404FERRANli2.html#x15-99000'></content></navPoint> 
+ 
+<navPoint id='navPoint-92' playOrder='92'> 
+<navLabel> 
+<text>       Índice de conceptos</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANli2.html#Q1-15-102'></content></navPoint> 
+ 
+<navPoint id='navPoint-93' playOrder='93'> 
+<navLabel> 
+<text>   Glosario de conceptos</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANli3.html#x16-100000'></content></navPoint> 
+ 
+<navPoint id='navPoint-94' playOrder='94'> 
+<navLabel> 
+<text>   Colofón</text> 
+</navLabel> 
+<content src='epub2-20251404FERRANli4.html#x17-101000'></content>
+</navPoint> 
+</navMap>   
+</ncx>
